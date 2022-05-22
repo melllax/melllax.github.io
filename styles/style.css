@@ -1,0 +1,15 @@
+
+html {
+    font-size: 14px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
