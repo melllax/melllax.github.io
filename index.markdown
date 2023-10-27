@@ -4,10 +4,10 @@
 
 layout: home
 ---
-      <ul>
+      
         
           <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
           </li>
         
-      </ul>
+      
