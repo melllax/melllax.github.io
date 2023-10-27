@@ -4,7 +4,6 @@
 
 layout: home
 ---
- <ul>
       <ul>
         
           <li>
